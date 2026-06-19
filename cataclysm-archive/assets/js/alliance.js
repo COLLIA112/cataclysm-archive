@@ -115,8 +115,7 @@ fetch("data/alliances.json")
 
         <hr>
 
-        <p>${alliance.lore}</p>
-
+      <div>${alliance.lore}</div>
     </div>
 
     `;
