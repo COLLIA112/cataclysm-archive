@@ -58,11 +58,6 @@ fetch("data/alliances.json")
                 <hr>
 
                 <p>
-                    <strong>Leader:</strong>
-                    ${alliance.leader}
-                </p>
-
-                <p>
                     <strong>Member Count:</strong>
                     ${alliance.members.length}
                 </p>
@@ -83,17 +78,17 @@ fetch("data/alliances.json")
 
     </div>
 
-    <div class="record-card mt-4">
+<div class="record-card mt-4">
 
-        <h3>Member Factions</h3>
+    <h3>Member Factions</h3>
 
-        <hr>
+    <hr>
 
-        ${alliance.factions
-            .map(faction => `<p>• ${faction}</p>`)
-            .join("")}
+    ${[...new Set(alliance.members.map(member => member.faction))]
+        .map(faction => `<p>• ${faction}</p>`)
+        .join("")}
 
-    </div>
+</div>
 
     <div class="record-card mt-4">
 
