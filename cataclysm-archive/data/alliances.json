@@ -1,0 +1,32 @@
+[
+    {
+        "id":"lushers",
+        "name":"The Lushers",
+        "type":"Coalition",
+
+        "members":[
+            {
+                "name":"Toru__",
+                "faction":"Envy"
+            },
+            {
+                "name":"McNally",
+                "faction":"Wrath"
+            },
+            {
+                "name":"Yenniyog67",
+                "faction":"Greed"
+            },
+            {
+                "name":"Member Placeholder",
+                "faction":"Pride"
+            }
+        ],
+
+        "image":"assets/images/alliances/lushers.jpg",
+
+        "summary":"A coalition formed by individuals from different factions who chose camaraderie over faction boundaries.",
+
+        "lore":"Placeholder lore."
+    }
+]

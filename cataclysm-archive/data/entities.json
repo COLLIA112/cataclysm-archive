@@ -1,0 +1,23 @@
+[
+    {
+        "id":"entity",
+        "name":"The Entity",
+        "classification":"Anomaly",
+        "status":"Unknown",
+        "threat":"Extreme",
+        "image":"assets/images/entities/entity.png",
+        "summary":"An unknown being connected to the Cataclysm.",
+        "lore":"Placeholder lore."
+    },
+
+    {
+        "id":"watcher",
+        "name":"The Watcher",
+        "classification":"Observer",
+        "status":"Unknown",
+        "threat":"Moderate",
+        "image":"assets/images/entities/watcher.jpg",
+        "summary":"A mysterious observer seen throughout the timeline.",
+        "lore":"Placeholder lore."
+    }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fracture-sky",
+    "title": "The Fracture in the Sky",
+    "type": "Newspaper",
+    "date": "2026-06-08",
+    "era": "The Fracture",
+    "classification": "Public",
+    "image": "assets/images/new2.png",
+    "summary": "Reports indicate reality itself has begun to fracture."
+  },
+  {
+    "id": "end-of-times",
+    "title": "The End of Times?",
+    "type": "Newspaper",
+    "date": "2026-05-27",
+    "era": "The Hunt",
+    "classification": "Public",
+    "image": "assets/images/new3.png",
+    "summary": "Early reports suggest unusual activity across the realm."
+  }
+]

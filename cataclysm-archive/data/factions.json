@@ -1,0 +1,85 @@
+[
+    {
+        "id":"envy",
+        "name":"Envy",
+        "category":"Horsemen",
+        "domain":"Conquest",
+        "leader":"Toru__",
+        "members":[
+            "Toru__",
+            "Member Placeholder 1",
+            "Member Placeholder 2",
+            "Member Placeholder 3"
+        ],
+        "image":"assets/images/factions/envy.jpg",
+        "summary":"A martial faction focused on territorial conquest and expansion.",
+        "lore":"Placeholder lore."
+    },
+
+    {
+        "id":"wrath",
+        "name":"Wrath",
+        "category":"Horsemen",
+        "domain":"War",
+        "leader":"McNally",
+        "members":[
+            "McNally",
+            "Member Placeholder 1",
+            "Member Placeholder 2",
+            "Member Placeholder 3"
+        ],
+        "image":"assets/images/factions/wrath.jpg",
+        "summary":"A warlike order known for disciplined tactics and fortifications.",
+        "lore":"Placeholder lore."
+    },
+
+    {
+        "id":"greed",
+        "name":"Greed",
+        "category":"Horsemen",
+        "domain":"Famine",
+        "leader":"Yenniyog67",
+        "members":[
+            "Yenniyog67",
+            "Member Placeholder 1",
+            "Member Placeholder 2",
+            "Member Placeholder 3"
+        ],
+        "image":"assets/images/factions/greed.jpg",
+        "summary":"An acquisitive faction prioritizing resources and supply control.",
+        "lore":"Placeholder lore."
+    },
+
+    {
+        "id":"pride",
+        "name":"Pride",
+        "category":"Horsemen",
+        "domain":"Death",
+        "leader":"Unknown",
+        "members":[
+            "Member Placeholder 1",
+            "Member Placeholder 2",
+            "Member Placeholder 3",
+            "Member Placeholder 4"
+        ],
+        "image":"assets/images/factions/pride.jpg",
+        "summary":"An enigmatic group associated with pride and ritual practices.",
+        "lore":"Placeholder lore."
+    },
+
+    {
+        "id":"aficionados",
+        "name":"Aficionados",
+        "category":"Independent",
+        "specialStatus":"Lore Exempt",
+        "members":[
+            "Member Placeholder 1",
+            "Member Placeholder 2",
+            "Member Placeholder 3",
+            "Member Placeholder 4"
+        ],
+        "image":"assets/images/factions/aficionados.jpg",
+        "summary":"A civilian guild of enthusiasts and craftsmen, separate from the Horsemen.",
+        "lore":"Placeholder lore."
+    }
+]

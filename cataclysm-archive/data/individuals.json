@@ -1,0 +1,49 @@
+[
+    {
+        "id":"toru",
+        "name":"Toru__",
+        "alias":"Toru",
+        "status":"Deceased",
+        "faction":"Envy",
+        "role":"Conquest Leader",
+        "classification":"Personnel",
+        "image":"assets/images/individuals/t.jpg",
+        "summary":"Leader of Envy; pivotal figure in the Conquest era."
+    },
+
+    {
+        "id":"yen",
+        "name":"Yenniyog67",
+        "alias":"Yen",
+        "status":"Deceased",
+        "faction":"Greed",
+        "role":"Co-Leader",
+        "classification":"Personnel",
+        "image":"assets/images/individuals/y.jpg",
+        "summary":"Co-leader of Greed; known for resource consolidation and influence."
+    },
+
+    {
+        "id":"mcnally",
+        "name":"McNally",
+        "alias":"McNally",
+        "status":"Active",
+        "faction":"Wrath",
+        "role":"Co-Leader",
+        "classification":"Personnel",
+        "image":"assets/images/individuals/m.jpg",
+        "summary":"Co-leader of Wrath; renowned for military strategy and command."
+    },
+
+    {
+        "id":"entity",
+        "name":"The Entity",
+        "alias":"Unknown",
+        "status":"Unknown",
+        "faction":"None",
+        "role":"Anomaly",
+        "classification":"Anomaly",
+        "image":"assets/images/individuals/e.jpg",
+        "summary":"Unknown anomalous presence; central to several unexplained events."
+    }
+]

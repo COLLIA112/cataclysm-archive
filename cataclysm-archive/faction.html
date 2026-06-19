@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Faction Profile</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="icon" href="assets/images/icon.png">
+<link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-black border-bottom border-secondary" aria-label="Primary navigation">
+
+        <div class="container">
+
+            <a class="navbar-brand fw-bold" href="index.html">CATACLYSM ARCHIVE</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="timeline.html">Timeline</a></li>
+                    <li class="nav-item"><a class="nav-link" href="records.html">Records</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Archives</a>
+                        <ul class="dropdown-menu dropdown-menu-dark">
+                            <li><a class="dropdown-item" href="individuals.html">Individuals</a></li>
+                            <li><a class="dropdown-item active" href="factions.html" aria-current="page">Factions</a></li>
+                            <li><a class="dropdown-item" href="alliances.html">Alliances</a></li>
+                            <li><a class="dropdown-item" href="entities.html">Entities</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+    </nav>
+
+<div class="container py-5">
+
+<p><a href="javascript:history.back()" class="back-link mb-3">← BACK</a></p>
+
+    <div id="factionProfile">
+
+        Loading...
+
+    </div>
+
+</div>
+
+<script src="assets/js/faction.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

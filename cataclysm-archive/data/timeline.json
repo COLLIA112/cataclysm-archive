@@ -1,0 +1,72 @@
+[
+{
+"id": "null-event",
+"title": "The Null Event",
+"era": "The Prelude",
+"summary": "Players disappeared from their original world and awoke in a new realm with no memory of their past lives."
+},
+
+{
+    "id": "new-beginnings",
+    "title": "New Beginnings",
+    "era": "The Garden",
+    "summary": "With their pasts erased, the players began anew. Homes were built, friendships were formed, and peace flourished across the world."
+},
+
+{
+    "id": "fragile-harmony",
+    "title": "Fragile Harmony",
+    "era": "The Garden",
+    "summary": "The prosperity of the Garden masked a growing tension. Ambition and desire slowly emerged beneath the surface while an unseen force watched."
+},
+
+{
+    "id": "paint-the-world-red",
+    "title": "Paint the World Red",
+    "era": "The Hunt",
+    "summary": "The Entity opened the Nether and delivered a single command to every player: Paint the world red."
+},
+
+{
+    "id": "the-slaughter",
+    "title": "The Slaughter",
+    "era": "The Hunt",
+    "summary": "The influence of The Entity drove players into violence. Friends and allies turned against one another as bloodshed consumed the world."
+},
+
+{
+    "id": "revelation-of-the-entity",
+    "title": "Revelation of The Entity",
+    "era": "The Hunt",
+    "summary": "The force behind the world's suffering finally revealed itself. It became known by many names, but most simply called it The Entity."
+},
+
+{
+    "id": "the-fracture",
+    "title": "The Fracture",
+    "era": "The Fracture",
+    "summary": "The death of a player who opposed The Entity caused the sky itself to tear open."
+},
+
+{
+    "id": "the-end-opens",
+    "title": "The End Opens",
+    "era": "The Fracture",
+    "summary": "Strongholds awakened across the world as portals to a forgotten realm became active once more."
+},
+
+{
+    "id": "the-dragon-falls",
+    "title": "The Dragon Falls",
+    "era": "The Fracture",
+    "summary": "The dragon that guarded the realm was slain by the players, marking one of humanity's greatest victories."
+},
+
+{
+    "id": "the-entitys-displeasure",
+    "title": "The Entity's Displeasure",
+    "era": "The Fracture",
+    "summary": "The Entity reacted with anger after the players survived a fate that was intended to destroy them."
+}
+
+]
