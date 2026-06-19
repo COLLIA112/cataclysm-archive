@@ -1,32 +1,68 @@
 [
+{
+    "id":"lushers",
+    "name":"The Lushers",
+    "type":"Coalition",
+
+   "members":[
     {
-        "id":"lushers",
-        "name":"The Lushers",
-        "type":"Coalition",
-
-        "members":[
-            {
-                "name":"Toru__",
-                "faction":"Envy"
-            },
-            {
-                "name":"McNally",
-                "faction":"Wrath"
-            },
-            {
-                "name":"Yenniyog67",
-                "faction":"Greed"
-            },
-            {
-                "name":"Member Placeholder",
-                "faction":"Pride"
-            }
-        ],
-
-        "image":"assets/images/alliances/lushers.jpg",
-
-        "summary":"A coalition formed by individuals from different factions who chose camaraderie over faction boundaries.",
-
-        "lore":"Placeholder lore."
+    "name":"Yoshiiror",
+    "faction":"Wrath"
+    },
+    {
+    "name":"murachii",
+    "faction":"Greed"
+    },
+    {
+    "name":"Haechiryll",
+    "faction":"Pride"
+    },
+    {
+    "name":"B0G2",
+    "faction":"Pride"
+    },
+    {
+    "name":"_zrs",
+    "faction":"Wrath"
+    },
+    {
+    "name":"ultraderpyboy",
+    "faction":"Wrath"
+    },
+    {
+    "name":"polenatics",
+    "faction":"Wrath"
+    },
+    {
+    "name":"Rukirikaz",
+    "faction":"Greed"
+    },
+    {
+    "name":"yeniyog67",
+    "faction":"Pride"
+    },
+    {
+    "name":"Lebakokak",
+    "faction":"Unknown"
+    },
+    {
+    "name":"divsew",
+    "faction":"Unknown"
+    },
+    {
+    "name":"Liaaaaa",
+    "faction":"Aficionado"
+    },
+    {
+    "name":"rayyyuh",
+    "faction":"Wrath"
     }
+],
+
+    "image":"assets/images/alliances/lushers.jpg",
+
+    "summary":"A coalition formed by individuals from different factions who chose camaraderie over faction boundaries.",
+
+    "lore":"People say families are built through love.<br><br>We beg to disagree.<br><br><strong>LUSHERS</strong><br><br>The Lushers were not born from friendship, loyalty, or choice. They were born from a loss. Every member carries an absence that can never truly be filled. Some lost the people they loved most. Some lost their purpose. Others lost themselves entirely, wandering through life without direction or the will to keep moving.<br><br>None of them sought each other out. Instead, they were led down the same broken path by a single truth: something took everything from them.<br><br>No one knows what it is.<br><br>Some call it fates. Others call it a coincidence. A few believe it was simply bad luck. But those who have suffered know better. There is something eerie lurking beyond their understanding, something that leaves behind broken homes, empty promises, and people who wake up one morning to find that the most precious parts of their lives have vanished. It does not announce itself, and it leaves no proof behind. Only loss.<br><br>Each Lusher encountered that same unseen force in different ways, believing they were the only one cursed by it. Yet somehow, every path of grief led to the same place.<br><br>To each other.<br><br>They became a family under one banner.<br><br>The Lushers fight not because they seek glory, but because they refuse to let anyone else lose what they have lost. Alone, each of them would have remained another victim swallowed by despair. Together, they became something stronger: people willing to face an evil they cannot name, chase a truth they cannot prove, and stand against a darkness that no single person could overcome.<br><br>Their losses remain.<br><br>Their grief remains.<br><br>But so does their resolve.<br><br>Because one day, whatever eerie force stole their futures will reveal itself. And when that day comes, it will not face broken individuals.<br><br>It will face a family forged by everything it failed to destroy."
+}
 ]
